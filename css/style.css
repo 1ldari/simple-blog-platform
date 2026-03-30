@@ -1,6 +1,9 @@
 .header {
-    text-align: left;
+    text-align: center;
     font-size: 2em;
 }
-body { font-family: Arial, sans-serif; margin: 20px; }
+body { 
+	font-family: Arial, sans-serif; 
+	margin: 20px; 
+}
 
